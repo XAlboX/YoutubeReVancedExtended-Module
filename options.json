@@ -4,11 +4,11 @@
     "options": [
       {
         "key": "darkThemeBackgroundColor",
-        "value": "@android:color/black"
+        "value": "000000"
       },
       {
         "key": "lightThemeBackgroundColor",
-        "value": "@android:color/white"
+        "value": "F2F2F2"
       }
     ]
   }
