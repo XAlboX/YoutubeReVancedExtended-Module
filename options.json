@@ -5,7 +5,11 @@
       {
         "key": "darkThemeBackgroundColor",
         "value": "@android:color/black"
+      },
+      {
+      "key" : "LightThemeBackgroundColor",
+      "value" : "@android:color/white"
       }
     ]
-  }
+   }
 ]
